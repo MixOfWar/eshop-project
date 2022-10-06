@@ -3,6 +3,6 @@ This project was made alongside a "50 projects in 50 days" course on Udemy from 
 - Material UI
 - React Props
 - StateProvider and Reducer
-- React-context-api
-- Using react state hooks
+- React-Context-Api
+- Using React state hooks
 - Firebase for Authentication and deployment
