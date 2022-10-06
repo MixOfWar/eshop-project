@@ -44,6 +44,7 @@
     padding: 5px;
     height: 22px !important;
     background-color: #ff9f00;
+    border-radius: 5px;
 }
 
 .header__nav {
