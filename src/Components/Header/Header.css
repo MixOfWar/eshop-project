@@ -60,6 +60,10 @@
     color: white;
 }
 
+a {
+    text-decoration: none;
+}
+
 .nav__itemLineOne {
     font-size: 10px;
 }
