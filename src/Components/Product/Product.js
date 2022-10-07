@@ -9,10 +9,10 @@ const Product = ({item}) => {
         <p className="product__price">${item.price}</p>
         <div className="product__rating">
           {Array(item.rating)
-                    .fill()
-                    .map((_, i) => (
-                        <p key={i}>⭐</p>
-                    ))}
+            .fill()
+            .map((_, i) => (
+                <p key={i}>⭐</p>
+            ))}
         </div>
       </div>
       <img src={item.image} alt={item.description} className="product__image" />
